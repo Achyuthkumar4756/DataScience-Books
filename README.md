@@ -15,24 +15,19 @@ The repository is organized into directories based on different topics within da
 ## Books Collection
 
 ### 1. Machine Learning
-- **Book Title 1:** A comprehensive guide to supervised and unsupervised learning techniques.
-- **Book Title 2:** An in-depth look at advanced machine learning algorithms and applications.
+- **Book Title 1:** Hands on Machine Learning with Scikit Learn and TensorFlow.
+- **Book Title 2:** machine-learning-bookpdf-pdf-free.
 
 ### 2. Statistics
-- **Book Title 1:** Introduction to statistical concepts and methods for data analysis.
-- **Book Title 2:** Advanced statistical techniques and their applications in data science.
+- **Book Title 1:** Think Stats.
+- **Book Title 2:**  PracticalStatisticsforDataScientists50EssentialConceptsUsingRandPythonbyPeterBruceAndrewBrucePeterGedeck.
+.
 
 ### 3. Natural Language Processing (NLP)
-- **Book Title 1:** Fundamentals of text processing and NLP techniques.
-- **Book Title 2:** Deep dive into advanced NLP models and applications.
+- **Book Title :** Natural Language Processing.
 
 ### 4. Deep Learning
-- **Book Title 1:** Introduction to neural networks and deep learning principles.
-- **Book Title 2:** Comprehensive guide to state-of-the-art deep learning architectures.
-
-### 5. Time Series Analysis
-- **Book Title 1:** Basics of time series analysis and forecasting techniques.
-- **Book Title 2:** Advanced methods for time series modeling and anomaly detection.
+- **Book Title :** Hands on Machine Learning with Scikit Learn and TensorFlow.
 
 ## How to Use
 
